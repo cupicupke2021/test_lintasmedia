@@ -33,14 +33,14 @@ rubah config/app.php dengan config url yang sesuai
    
    ![image](https://user-images.githubusercontent.com/89963599/132788910-6d5067e1-c666-4952-b9b1-9eb21f0cfdd2.png)
    
-   Docnumed  		: artinya memberikan fitur dokumen number secara dinamis pada menu ini, pengaturan bisa di set di menu document number setting pada group root 
-   Posting   		: artinya memberikan fitur posting pada menu ini
-   Attachment 		: artinya memberikan fitur upload attachment pada menu ini 
-   Approval  		: artinya memberikan fitur approval (workflow) pada menu ini, pengaturan bisa di set di menu sign staging setting pada group root
-   Filter By Company 	: artinya list data akan terfilter berdasarkan hak akses company code (jika sistem dipakai multi perusahaan/anak perusahaan)
-   Filter By Department : artinya list data akan terfilter berdasarkan hak akses per departemen 
-   Filter By Position   : artinya list data akan terfilter berdasarkan hak ases per jabatan 
-   Filter By User	: artinya list data akan terfilter sesuai masing - masing user sesuai dengan hak akses 
+   1. Docnumed  		: artinya memberikan fitur dokumen number secara dinamis pada menu ini, pengaturan bisa di set di menu document number setting pada group root 
+   2. Posting   		: artinya memberikan fitur posting pada menu ini
+   3. Attachment 		: artinya memberikan fitur upload attachment pada menu ini 
+   4. Approval  		: artinya memberikan fitur approval (workflow) pada menu ini, pengaturan bisa di set di menu sign staging setting pada group root
+   5. Filter By Company 	: artinya list data akan terfilter berdasarkan hak akses company code (jika sistem dipakai multi perusahaan/anak perusahaan)
+   6. Filter By Department : artinya list data akan terfilter berdasarkan hak akses per departemen 
+   7. Filter By Position   : artinya list data akan terfilter berdasarkan hak ases per jabatan 
+   8. Filter By User	: artinya list data akan terfilter sesuai masing - masing user sesuai dengan hak akses 
    
 2. Group Manager 
    Menu Untuk mengatur hak akses per group 
