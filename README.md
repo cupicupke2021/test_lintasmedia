@@ -6,7 +6,7 @@ dengan ubahan pada struktur file nya tanpa merusak konsep Laravel Framework
 
 Keuntungan yang di dapat 
 -- Dynamic Route (Programmer tidak perlu membuat route setiap kali membuat menu, route akan automatic termapping) <br> 
--- Dynamic Controller (Programmer tidak perlu membuat dan menyatukan controller untuk satu menu, main controller akan di handle oleh <b>System.php</b< dan <b>Start.php</b>) <br> 
+-- Dynamic Controller (Programmer tidak perlu membuat dan menyatukan controller untuk satu menu, main controller akan di handle oleh <b>System.php</b> dan <b>Start.php</b>) <br> 
 -- Modular (Bersifat modular)<br> 
 -- Multi Companies (Bisa diterapkan untuk perusahaan dengan banyak anak perusahaan)
 -- Rest API CRUD (Mendukung REST Api, tanpa membuat lagi codingan khusus api, semua privilege akan mengikuti system berjalan)<br> 
