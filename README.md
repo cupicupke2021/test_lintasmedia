@@ -1,9 +1,15 @@
 # Test Programmer 
--- Dynamic Route <br> 
--- Dynamic Controller <br> 
--- Modular <br> 
--- All Module in app/Systems <br> 
--- Rest API CRUD <br> 
+Jakarta, 10 September 2021
+
+Source code untuk testing programmer, menggunakan framework laravel 8.XX dengan konsep HMVC
+dengan ubahan pada struktur file nya tanpa merusak konsep Laravel Framework
+
+Keuntungan yang di dapat 
+-- Dynamic Route (Programmer tidak perlu membuat route setiap kali membuat menu, route akan automatic termapping) <br> 
+-- Dynamic Controller (Programmer tidak perlu membuat dan menyatukan controller untuk satu menu, main controller akan di handle oleh <b>System.php</b< dan <b>Start.php</b>) <br> 
+-- Modular (Bersifat modular)<br> 
+-- Multi Companies (Bisa diterapkan untuk perusahaan dengan banyak anak perusahaan)
+-- Rest API CRUD (Mendukung REST Api, tanpa membuat lagi codingan khusus api, semua privilege akan mengikuti system berjalan)<br> 
 
 # User & Group 
 1. Group Admin 
@@ -21,6 +27,9 @@ rubah .env dengan config database yang sesuai
 
 rubah config/app.php dengan config url yang sesuai 
 
+# SQL 
+
+Download erp.sql kemudian import ke MYSQL
 
 # Contoh Tampilan 
 
@@ -56,8 +65,6 @@ rubah config/app.php dengan config url yang sesuai
    6. import excel 
 
 
-   
-
 # Rest API (Untuk front end) 
 
 Setting Token Untuk Rest API (postman) 
@@ -67,3 +74,5 @@ Setting Token Untuk Rest API (postman)
 ![image](https://user-images.githubusercontent.com/89963599/131812671-51292bbc-9d97-4440-8a48-bba0a4ffef9f.png)
 
 
+Yusuf Syaefudin 
+Note : Codingan di atas merupakan murni ide dari saya sendiri, 
