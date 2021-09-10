@@ -5,13 +5,16 @@
 -- All Module in app/Systems 
 -- Rest API CRUD
 
-# User 
-1. Admin 
+# User & Group 
+1. Group Admin 
     User : demo 
     Pass : demo123 
-2. Staff Gudang 
+2. Group Staff Gudang 
     User : john_doe 
     Pass : kucingbadak
+3. Group Root (super admin)
+    User : yusuf 
+    Pass : yusuf123
     
 # Config 
 rubah .env dengan config database yang sesuai 
