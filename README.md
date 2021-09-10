@@ -69,7 +69,7 @@ Download erp.sql kemudian import ke MYSQL
 
 Setting Token Untuk Rest API (postman) 
 
-1 token di set per 1 user jadi privilege mengikuti privilege user 
+1 token di set per 1 user jadi privilege mengikuti privilege group 
 
 ![image](https://user-images.githubusercontent.com/89963599/131812671-51292bbc-9d97-4440-8a48-bba0a4ffef9f.png)
 
