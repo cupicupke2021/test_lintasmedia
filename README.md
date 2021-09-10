@@ -4,7 +4,7 @@ Jakarta, 10 September 2021
 Source code untuk testing programmer, menggunakan framework laravel 8.XX dengan konsep HMVC
 dengan ubahan pada struktur file nya tanpa merusak konsep Laravel Framework
 
-Keuntungan yang di dapat 
+Keuntungan yang di dapat <br>
 -- Dynamic Route (Programmer tidak perlu membuat route setiap kali membuat menu, route akan automatic termapping) <br> 
 -- Dynamic Controller (Programmer tidak perlu membuat dan menyatukan controller untuk satu menu, main controller akan di handle oleh <b>System.php</b> dan <b>Start.php</b>) <br> 
 -- Modular (Bersifat modular)<br> 
