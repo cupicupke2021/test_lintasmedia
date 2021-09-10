@@ -58,7 +58,7 @@ rubah config/app.php dengan config url yang sesuai
 
    
 
-
+# Rest API (Untuk front end) 
 
 Setting Token Untuk Rest API (postman) 
 
